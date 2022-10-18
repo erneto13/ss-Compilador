@@ -1,0 +1,23 @@
+declaracion[
+    entero x = 0;
+    caracter c = "c";
+    cadena cad = "cadena";
+    real r = 420.69;
+    booleano aux = verdadero;
+]
+principal[
+    x = 5-(5*(x+5));
+    si (verdadero){
+        mientras(verdadero){
+            Leer(cad);
+        };
+    }
+    sino{
+        para(r; verdadero; 69){
+            Mostrar("hola putos");
+        };
+        si(falso){
+               r = r + x;
+        };
+    };
+]
