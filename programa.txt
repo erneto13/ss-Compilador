@@ -1,9 +1,9 @@
 declaracion[
-    entero x = 0;
+    entero x = 4;
     caracter c = "c";
     cadena cad = "cadena";
     real r = 420.69;
-    booleano aux = verdadero;
+    constante entero = 5;
 ]
 principal[
     x = 5-(5*(x+5));
